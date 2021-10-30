@@ -130,3 +130,6 @@ dmypy.json
 
 # OSX filestore
 .DS_Store
+
+# don't sync dataset
+data/*
