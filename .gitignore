@@ -132,4 +132,4 @@ dmypy.json
 .DS_Store
 
 # don't sync dataset
-data/*
+*/data/*
