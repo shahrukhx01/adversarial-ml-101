@@ -131,9 +131,11 @@ dmypy.json
 # Pyre type checker
 .pyre/
 *.pickle
+*.pkl
 
 # OSX filestore
 .DS_Store
 
 ## assignment 3 data
 /Users/shahrukh/Desktop/ml-cybersecurity/assignment3/shahrukh/data
+/Users/shahrukh/Desktop/ml-cybersecurity/assignment3/shahrukh/pickled_datasets
