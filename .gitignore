@@ -134,3 +134,6 @@ dmypy.json
 
 # OSX filestore
 .DS_Store
+
+## assignment 3 data
+/Users/shahrukh/Desktop/ml-cybersecurity/assignment3/shahrukh/data
