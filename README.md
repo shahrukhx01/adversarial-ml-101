@@ -7,5 +7,6 @@ A beginner friendly repository for getting started with adversarial machine lear
 * [Training and anlysisi of the parametric and non-parametric ML models on MNIST dataset](https://github.com/shahrukhx01/ml-cybersecurity/1_mnist_machine_learning_deep_learning.ipynb)
 * [Fast Gradient Sign Method (FGSM - Evasion Attack)](2_evasion_attacks_defenses.ipynb)
 * [Iterative Fast Gradient Sign Method (I-FGSM - Evasion Attack)](2_evasion_attacks_defenses.ipynb)
+* [Adversarial Training (Evasion Defense)](2_evasion_attacks_defenses.ipynb)
 * [Malware analysis and vectorization of system calls with potential malware](3_malware_analysis.ipynb)
 
